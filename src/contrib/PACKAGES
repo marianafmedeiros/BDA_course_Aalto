@@ -1,0 +1,8 @@
+Package: aaltobda
+Version: 0.3.1
+Depends: R (>= 3.5.0)
+Imports: checkmate, stats
+Suggests: ggplot2, testthat
+License: MIT + file LICENCE
+MD5sum: 1e0061aaea1010ca2c5c11fde536ada8
+NeedsCompilation: no
